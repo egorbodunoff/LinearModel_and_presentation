@@ -105,4 +105,3 @@ def corr(data, features=("AGE", "CHILD_TOTAL", "DEPENDANTS",
     plt.tick_params(labelsize=6)
 
     return fig
-

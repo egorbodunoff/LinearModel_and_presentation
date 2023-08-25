@@ -67,4 +67,3 @@ def show_chart(title, text, fig):
 
 
 process_main_page()
-
